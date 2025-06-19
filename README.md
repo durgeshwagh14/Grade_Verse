@@ -74,6 +74,8 @@ You may use or modify it for educational purposes.
 
 ## 🙋‍♂️ Author
 
-**Durgesh Wagh** **8767363217**
+👤 **Durgesh Wagh**  
+📧 durgeshwagh@example.com  
+📞 +91-9876543210
 GitHub: [@DurgeshWagh](https://github.com/DurgeshWagh)
 
