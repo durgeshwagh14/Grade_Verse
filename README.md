@@ -76,8 +76,3 @@ You may use or modify it for educational purposes.
 
 **Durgesh Wagh**
 GitHub: [@DurgeshWagh](https://github.com/DurgeshWagh)
-
-```
-
-You can now create a file named `README.md` in your GitHub project folder and paste the above content directly into it. Let me know if you'd like me to add a table, badges, or screenshots section with placeholders.
-```
