@@ -76,7 +76,6 @@ You may use or modify it for educational purposes.
 
 👤 **Durgesh Wagh**  
 📧 durgeshwagh1405@gmail.com  
-📞 +91-8767363217
 🐙 GitHub: [@DurgeshWagh](https://github.com/DurgeshWagh)
 
 
